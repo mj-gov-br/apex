@@ -4,13 +4,13 @@
         {
             "internalName": "APP_MODELO_SETORIAL",
             "name": "App Modelo Setorial (Microsoft)",
-            "description": "This app is a custom app.",
+            "description": "Aplicativo modelo, com autenticação Microsoft configurada e identidade visual compatível com as diretrizes MJSP.",
             "author": "DSD/MJSP",
             "version": "1.0.0",
             "icon": "https://apexstoragemjsp.blob.core.windows.net/ws20250414084700/custom_app/logo%20MJSP.png",
-"url": "https://github.com/oracle/apex/tree/24.2/utility-apps/cloud-apps-rest-explorer",
+"url": "https://acelera.mj.gov.br",
 "source": "https://apexstoragemjsp.blob.core.windows.net/ws20250414084700/custom_app/app_modelo_setorial.sql",
-"zip": "https://apexstoragemjsp.blob.core.windows.net/ws20250414084700/custom_app/app_modelo_setorial.zip"
+"zip": "https://github.com/mj-gov-br/apex/raw/refs/heads/main/app_modelo_setorial.zip"
         }
     ]
 }
