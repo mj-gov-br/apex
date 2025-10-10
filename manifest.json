@@ -7,10 +7,11 @@
             "description": "Aplicativo modelo, com autenticação Microsoft configurada e identidade visual compatível com as diretrizes MJSP.",
             "author": "DSD/MJSP",
             "version": "1.0.0",
-            "icon": "https://apexstoragemjsp.blob.core.windows.net/ws20250414084700/custom_app/logo%20MJSP.png",
+            "icon": "https://raw.githubusercontent.com/mj-gov-br/apex/refs/heads/main/logo%20MJSP.png",
 "url": "https://acelera.mj.gov.br",
 "source": "https://raw.githubusercontent.com/mj-gov-br/apex/refs/heads/main/app_modelo_setorial.sql",
-"zip": "https://github.com/mj-gov-br/apex/raw/refs/heads/main/app_modelo_setorial.zip"
+"zip": "https://raw.githubusercontent.com/mj-gov-br/apex/refs/heads/main/app_modelo_setorial.zip"
         }
     ]
+
 }
