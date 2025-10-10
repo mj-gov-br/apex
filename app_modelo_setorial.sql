@@ -3543,7 +3543,7 @@ wwv_flow_imp_shared.create_install_script(
 '    /*apex_credential.create_credential (',
 '       p_credential_name => ''cred_id_sso'',',
 '       p_credential_static_id => ''cred_id_sso'',',
-'       p_authentication_type => apex_credential.C_TYPE_BASIC,',
+'       p_authentication_type => apex_credential.C_TYPE_OAUTH_CLIENT_CRED,',
 '       p_prompt_on_install => false',
 '    );*/',
 '',
