@@ -9,7 +9,7 @@
             "version": "1.0.0",
             "icon": "https://apexstoragemjsp.blob.core.windows.net/ws20250414084700/custom_app/logo%20MJSP.png",
 "url": "https://acelera.mj.gov.br",
-"source": "https://apexstoragemjsp.blob.core.windows.net/ws20250414084700/custom_app/app_modelo_setorial.sql",
+"source": "https://raw.githubusercontent.com/mj-gov-br/apex/refs/heads/main/app_modelo_setorial.sql",
 "zip": "https://github.com/mj-gov-br/apex/raw/refs/heads/main/app_modelo_setorial.zip"
         }
     ]
