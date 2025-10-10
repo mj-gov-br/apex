@@ -2,15 +2,15 @@
 
     "customApps": [
         {
-            "internalName": "MY_CUSTOM_APP",
-            "name": "Custom App",
+            "internalName": "APP_MODELO_SETORIAL",
+            "name": "App Modelo Setorial (Microsoft)",
             "description": "This app is a custom app.",
-            "author": "John Doe",
+            "author": "DSD/MJSP",
             "version": "1.0.0",
-            "icon": "https://raw.githubusercontent.com/rcbc2406/apex_test/70918a05676ae6186e3fffc5f24588579022bd7e/MJSP.png",
+            "icon": "https://apexstoragemjsp.blob.core.windows.net/ws20250414084700/custom_app/logo%20MJSP.png",
 "url": "https://github.com/oracle/apex/tree/24.2/utility-apps/cloud-apps-rest-explorer",
-"source": "https://raw.githubusercontent.com/rcbc2406/apex_test/689c6da8ba8b5be6d7450b19723ad2558f2ddd7b/f100.sql",
-"zip": "https://raw.githubusercontent.com/rcbc2406/apex_test/689c6da8ba8b5be6d7450b19723ad2558f2ddd7b/f100.zip"
+"source": "https://apexstoragemjsp.blob.core.windows.net/ws20250414084700/custom_app/app_modelo_setorial.sql",
+"zip": "https://apexstoragemjsp.blob.core.windows.net/ws20250414084700/custom_app/app_modelo_setorial.zip"
         }
     ]
 }
