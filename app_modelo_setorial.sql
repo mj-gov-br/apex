@@ -28,11 +28,11 @@ wwv_flow_imp.import_begin (
 end;
 /
  
-prompt APPLICATION 125 - &APP_NAME.
+prompt APPLICATION 125 - MODELO
 --
 -- Application Export:
 --   Application:     125
---   Name:            &APP_NAME.
+--   Name:            MODELO
 --   Date and Time:   22:01 Sexta-Feira Outubro 10, 2025
 --   Exported By:     IGOR.ARRUDA2@MJ.GOV.BR
 --   Flashback:       0
