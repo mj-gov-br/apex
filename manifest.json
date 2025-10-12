@@ -6,7 +6,7 @@
             "name": "App Modelo Setorial (Microsoft)",
             "description": "Aplicativo com autenticação Microsoft configurada e identidade visual compatível com as diretrizes MJSP.",
             "author": "DSD/MJSP",
-            "version": "1.0.0",
+            "version": "1.0",
             "icon": "https://raw.githubusercontent.com/mj-gov-br/apex/refs/heads/main/logo%20MJSP.png",
 "url": "https://apps.mj.gov.br/r/ws_20250414084700/apresentacao/publicacao?p19_id_publicacao=1042&p19_origem=18",
 "source": "https://raw.githubusercontent.com/mj-gov-br/apex/refs/heads/main/app_modelo_setorial.sql",
@@ -15,6 +15,7 @@
     ]
 
 }
+
 
 
 
