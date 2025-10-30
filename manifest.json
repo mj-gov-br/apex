@@ -6,10 +6,10 @@
       "description": "Aplicativo com autenticação Microsoft configurada e identidade visual compatível com as diretrizes MJSP.",
       "author": "DSD/MJSP",
       "version": "Release 1.0",
-      "icon": "https://raw.githubusercontent.com/mj-gov-br/apex/refs/heads/main/logo%20MJSP.png",
+      "icon": "https://cdn.jsdelivr.net/gh/mj-gov-br/apex@main/logo%20MJSP.png",
       "url": "https://apps.mj.gov.br/r/ws_20250414084700/apresentacao/publicacao?p19_id_publicacao=1042&p19_origem=18",
-      "source": "https://raw.githubusercontent.com/mj-gov-br/apex/refs/heads/main/app_modelo_setorial.sql",
-      "zip": "https://raw.githubusercontent.com/mj-gov-br/apex/refs/heads/main/app_modelo_setorial.zip"
+      "source": "https://cdn.jsdelivr.net/gh/mj-gov-br/apex@main/app_modelo_setorial.sql",
+      "zip": "https://cdn.jsdelivr.net/gh/mj-gov-br/apex@main/app_modelo_setorial.zip"
     },
     {
       "internalName": "APP_MODELO_CORPORATIVO",
@@ -17,10 +17,10 @@
       "description": "Aplicativo com autenticação Keycloak configurada e identidade visual compatível com as diretrizes MJSP.",
       "author": "DSD/MJSP",
       "version": "Release 1.0",
-      "icon": "https://raw.githubusercontent.com/mj-gov-br/apex/refs/heads/main/logo%20MJSP.png",
+      "icon": "https://cdn.jsdelivr.net/gh/mj-gov-br/apex@main/logo%20MJSP.png",
       "url": "https://apps.mj.gov.br/r/ws_20250414084700/apresentacao/publicacao?p19_id_publicacao=943&p19_origem=18",
-      "source": "https://raw.githubusercontent.com/mj-gov-br/apex/refs/heads/main/app_modelo_corporativo.sql",
-      "zip": "https://raw.githubusercontent.com/mj-gov-br/apex/refs/heads/main/app_modelo_corporativo.zip"
+      "source": "https://cdn.jsdelivr.net/gh/mj-gov-br/apex@main/app_modelo_corporativo.sql",
+      "zip": "https://cdn.jsdelivr.net/gh/mj-gov-br/apex@main/app_modelo_corporativo.zip"
     }
   ]
 }
