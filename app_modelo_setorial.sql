@@ -28,10 +28,10 @@ wwv_flow_imp.import_begin (
 end;
 /
  
-prompt APPLICATION 143 - Modelo
+prompt APPLICATION 108 - Modelo
 --
 -- Application Export:
---   Application:     143
+--   Application:     108
 --   Name:            Modelo
 --   Date and Time:   10:36 Thursday March 26, 2026
 --   Exported By:     IGOR.ARRUDA2@MJ.GOV.BR
