@@ -1,17 +1,6 @@
 {
   "customApps": [
     {
-      "internalName": "APP_MODELO_SETORIAL",
-      "name": "App Modelo Setorial (Microsoft)",
-      "description": "Aplicativo com autenticação Microsoft configurada e identidade visual compatível com as diretrizes MJSP (2026).",
-      "author": "DSD/MJSP",
-      "version": "Release 1.0",
-      "icon": "https://cdn.jsdelivr.net/gh/mj-gov-br/apex@main/logo%20MJSP.png",
-      "url": "https://apps.mj.gov.br/r/ws_20250414084700/apresentacao/publicacao?p19_id_publicacao=1042&p19_origem=18",
-      "source": "https://cdn.jsdelivr.net/gh/mj-gov-br/apex@refs/heads/main/app_modelo_setorial.sql",
-      "zip": "https://cdn.jsdelivr.net/gh/mj-gov-br/apex@main/app_modelo_setorial.zip"
-    },
-    {
       "internalName": "APP_MODELO_CORPORATIVO",
       "name": "App Modelo Corporativo (Keycloak)",
       "description": "Aplicativo com autenticação Keycloak configurada e identidade visual compatível com as diretrizes MJSP.",
@@ -23,15 +12,15 @@
       "zip": "https://cdn.jsdelivr.net/gh/mj-gov-br/apex@main/app_modelo_corporativo.zip"
     },
     {
-      "internalName": "APP_MODELO_SETORIAL_2026",
+      "internalName": "APP_MODELO_SETORIAL_05_2026",
       "name": "App Modelo Setorial 2026 (Microsoft)",
-      "description": "Aplicativo com autenticação Microsoft configurada e identidade visual compatível com as diretrizes MJSP (2026).",
+      "description": "Aplicativo com autenticação Microsoft configurada e identidade visual compatível com as diretrizes MJSP (05/2026).",
       "author": "DSD/MJSP",
       "version": "Release 1.0",
       "icon": "https://cdn.jsdelivr.net/gh/mj-gov-br/apex@main/logo%20MJSP.png",
       "url": "https://apps.mj.gov.br/r/ws_20250414084700/apresentacao/publicacao?p19_id_publicacao=1042&p19_origem=18",
-      "source": "https://cdn.jsdelivr.net/gh/mj-gov-br/apex@refs/heads/main/app_modelo_setorial_2026.sql",
-      "zip": "https://cdn.jsdelivr.net/gh/mj-gov-br/apex@main/app_modelo_setorial.zip"
+      "source": "https://cdn.jsdelivr.net/gh/mj-gov-br/apex@refs/heads/main/app_modelo_setorial_05_2026.sql",
+      "zip": "https://cdn.jsdelivr.net/gh/mj-gov-br/apex@refs/heads/main/app_modelo_setorial_05_2026.zip"
     }
   ]
 }
