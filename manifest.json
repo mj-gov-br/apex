@@ -1,15 +1,15 @@
 {
   "customApps": [
     {
-      "internalName": "APP_MODELO_CORPORATIVO_18_05_2026",
+      "internalName": "APP_MODELO_CORPORATIVO_10_05_2026",
       "name": "App Modelo Corporativo 2026 (Keycloak)",
-      "description": "Aplicativo com autenticação Keycloak configurada e identidade visual compatível com as diretrizes MJSP (05/2026).",
+      "description": "Aplicativo com autenticação Keycloak configurada e identidade visual compatível com as diretrizes MJSP (2026).",
       "author": "DSD/MJSP",
       "version": "Release 1.0",
       "icon": "https://cdn.jsdelivr.net/gh/mj-gov-br/apex@main/logo%20MJSP.png",
       "url": "https://apps.mj.gov.br/r/ws_20250414084700/apresentacao/publicacao?p19_id_publicacao=943&p19_origem=18",
-      "source": "https://cdn.jsdelivr.net/gh/mj-gov-br/apex@refs/heads/main/app_modelo_corporativo_05_2026_2.sql",
-      "zip": "https://cdn.jsdelivr.net/gh/mj-gov-br/apex@main/app_modelo_corporativo_05_2026_2.zip"
+      "source": "https://cdn.jsdelivr.net/gh/mj-gov-br/apex@refs/heads/main/app_modelo_corporativo_05_2026.sql",
+      "zip": "https://cdn.jsdelivr.net/gh/mj-gov-br/apex@main/app_modelo_corporativo_05_2026.zip"
     },
     {
       "internalName": "APP_MODELO_SETORIAL_18_05_2026",
